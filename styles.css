@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  canvas {
+    display: block;
+    background-color: #f0f0f0; /* Cor de fundo do canvas */
+    width: 100%;
+    height: 100%;
+  }
+  
+  #image {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  
